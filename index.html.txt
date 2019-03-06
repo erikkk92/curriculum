@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">  
+  <head>    
+    <title>Erik Ichidda - CV</title>    
+    <meta charset="UTC-4">
+    <meta name="title" content="Erik Ichida">
+    <meta name="description" content="Descripción de la WEB">       
+  </head>  
+  <body>    
+    <header>
+      <h1>Erik Ichida - CV</h1>      
+    </header>    
+    <section>      
+      <article>
+        <h2>Introducción</h2>
+        <p>Erik Minoru Ichida Ohe, nacido el 16 de noviembre de 1992 en Asunción, Paraguay. 
+        </p>
+        <div>
+          <p>Foto:</p>
+          <img src="https://imgur.com/a/TmrMhYt" alt="EI">          
+        </div>
+      </article>      
+    </section>
+    <aside>
+      <h3>Historial Académico</h3>
+      <p>-Graduado de la primaria y secundaria en el Colegio Adventista de Asunción en el año 2010</p>
+      <p>-Finalizado todos los módulos de inglés del CCPA en el año 2010</p>
+       <p>-Finalizado todos los módulo de idioma japonés en el Instituo de Idioma Japonés de Asunción</p>
+       <p>-Actualmente estudiante del último año de la carrera Licenciatura en Ciencias Informáticas con enfásis en Análisis de Sistemas.</p>
+      <h3>Experiencias Laborales</h3>
+      <p>Soporte técnico informático y asistente. Estudio Jurídico Ishida & Associates</p>
+<p>Desde Junio-2017</p>
+<p>-Redactar, revisar, traducir informes y documentos inglés/español.</p>
+<p>-Manejo y soporte técnico en los equipos y sistemas informáticos.</p>
+    </aside>
+    <footer>
+      <h3>Hobbies</h3>
+      <p>-Jugar/ver Futbol</p>
+      <p>-Videojuegos</p>
+      <h3>Referencias</h3>
+      <p>Empresa en la que trabaja <a href="https://www.ishidalaws.com">Ishida & Associates</a></p>
+ 
+      <h3>CONTACTO</h3>
+      <p>Teléfono <a href="tel:+595982608167">0982608167</a>
+      <p><a href="erik.ishida1992@gmail.com">Enviar Mail </a></p>
+      <a href="https://www.facebook.com/erik.ishida.52">Mi Facebook</a>
+    </footer>
+  </body>  
+</html>
